@@ -1,4 +1,7 @@
-import telebot from telebot import types from datetime import datetime, timedelta
+import telebot
+from telebot import types
+from datetime import datetime, timedelta
+import os
 
 API_TOKEN = 'YOUR_BOT_TOKEN_HERE' ADMIN_ID = 6955958431
 
